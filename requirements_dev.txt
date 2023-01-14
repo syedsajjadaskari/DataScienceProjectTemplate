@@ -1,0 +1,14 @@
+ipywidgets
+notebook
+ensure
+py-youtube
+
+
+#dev requrements
+pytest
+tox
+black #formating
+flake8 #lintting:- error
+mypy #type check
+
+
