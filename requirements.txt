@@ -2,3 +2,4 @@ ipywidgets
 notebook
 ensure
 py-youtube
+-e . #try to install local packages
