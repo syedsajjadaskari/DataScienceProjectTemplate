@@ -20,10 +20,11 @@ list_of_files = [
     f"tests/__init__.py",#to perform tests init file
     f"tests/unit/__init__.py",#to perform unit tests
     f"tests/integration/__init_.py",#to perform integration test
-    "init__setup.sh",#manage envirnment
+    "init_setup.sh",#manage envirnment
     "requirements.txt",#user requirements
     "requirements_dev.txt",#developer requirements
     "pyproject.toml",# pyproject.toml is the specified file format of PEP 518 which contains the build system requirements of Python projects.
+    "setup.py",#to setup files
     "setup.cfg",#setup. cfg is an ini file, containing option defaults for setup.py commands
     "tox.ini",#helps to testing on various envirnments
 
