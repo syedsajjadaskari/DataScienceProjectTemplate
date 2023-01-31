@@ -23,7 +23,7 @@ list_of_files = [
     "init_setup.sh",#manage envirnment
     "requirements.txt",#user requirements
     "requirements_dev.txt",#developer requirements
-    "pyproject.toml",# pyproject.toml is the specified file format of PEP 518 which contains the build system requirements of Python projects.
+    #"pyproject.toml",# pyproject.toml is the specified file format of PEP 518 which contains the build system requirements of Python projects.
     "setup.py",#to setup files
     "setup.cfg",#setup. cfg is an ini file, containing option defaults for setup.py commands
     "tox.ini",#helps to testing on various envirnments
